@@ -19,6 +19,6 @@ My name is Brian Rhodes. I am from Houston, Texas and I am a recent graduate of 
 - Solving Data structure and algorithm questions in **JavaScript**
 
 ## 👋 Other 
-- 💎 Huge DC comics fan.
+- 💎 Huge DC Comics fan.
 - 💎 Matrix is my favorite movie.
 - 💎 FGC Member
