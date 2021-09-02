@@ -15,8 +15,8 @@ My name is Brian Rhodes. I am from Houston, Texas and I am a recent graduate of 
 ## ⚡ Technologies 
 - Front-end development using **React, CSS, Semantic UI**
 - Backend development using **Ruby on Rails**
-- Learning Backend Development with Nodejs and improving steadily my Styling Skills
-- Solving Data structure and algorithm questions in **JavaScript**
+- Learning Backend Development with **Nodejs** and improving steadily my Styling Skills
+- Solving Data Structure and Algorithm questions in **JavaScript**
 
 ## 👋 Other 
 - 💎 Huge DC Comics fan.
