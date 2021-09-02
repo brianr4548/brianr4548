@@ -18,7 +18,7 @@ I am Brian Rhodes. I am from Houston, Texas and I am a recent graduate of Flatir
 - Learning Backend Development with Nodejs and improving steadily my Styling Skills
 - Solving Data structure and algorithm questions in **JavaScript**
 
-## 👋 Reach out to me 
+## 👋 Other 
 - 💎 Huge DC comics fan.
 - 💎 Matrix is my favorite movie.
 - 💎 FGC Member
