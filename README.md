@@ -3,7 +3,7 @@
 <img align='right' src='https://i.imgur.com/IV9nxG3.jpg' width='300"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/brian-rhodes-98640620b/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:brianr4548@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brianr4548@gmail.com)](mailto:brianr4548@gmail.com)
 
 I am Brian Rhodes. I am from Houston, Texas and I am a recent graduate of Flatiron School's Software Engineering Program 🏫.I love to do web development and open to learning new technologies.
 
