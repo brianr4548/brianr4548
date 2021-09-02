@@ -13,10 +13,10 @@ My name is Brian Rhodes. I am from Houston, Texas and I am a recent graduate of 
 * [Reusable Widgets (More In Progress)](https://widgets-ab1jcr526-brian4548.vercel.app/)
 
 ## ⚡ Technologies 
-- Front-end development using **React, CSS, Semantic UI**
-- Backend development using **Ruby on Rails**
+- Front-end Development using **React, CSS, Semantic UI**
+- Backend Development using **Ruby on Rails**
 - Learning Backend Development with **Nodejs** and steadily improving my Styling Skills
-- Solving Data Structure and Algorithm questions in **JavaScript**
+- Solving Data Structure and Algorithm Questions in **JavaScript**
 
 ## 👋 Other 
 - 💎 Huge DC Comics fan.
