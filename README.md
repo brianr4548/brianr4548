@@ -9,7 +9,7 @@ My name is Brian Rhodes. I am from Houston, Texas and I am a recent graduate of 
 
 ## 💻 Some Projects
 * [React Video Player (Youtube Clone that utilizes Youtube Data v3 API)](https://video-player-rmnb8owyc-brian4548.vercel.app/)
-* [Image Viewer (Unsplashed API)](https://images-khss97b8y-brian4548.vercel.app/)
+* [Image Search (Unsplashed API)](https://images-khss97b8y-brian4548.vercel.app/)
 * [Reusable Widgets (More In Progress)](https://widgets-ab1jcr526-brian4548.vercel.app/)
 
 ## ⚡ Technologies 
