@@ -1,6 +1,6 @@
 <h2> Hello welcome to my portfolio</h2>
 
-<img align='right' src='https://i.imgur.com/IV9nxG3.jpg' width='300"'>
+<img align='right' src='https://external-preview.redd.it/XiZVfTZi5kC5NwyUTTzlRxQmBoXR8tvMbxLOZUMoS2w.jpg?auto=webp&s=9cff521728dd02c20fd4fd06229b3bf592d07fdb' width='300"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/brian-rhodes-98640620b/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brianr4548@gmail.com)](mailto:brianr4548@gmail.com)
