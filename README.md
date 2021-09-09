@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/brian-rhodes-98640620b/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brianr4548@gmail.com)](mailto:brianr4548@gmail.com)
 
-My name is Brian Rhodes. I am from Houston, Texas and I am a recent graduate of Flatiron School's Software Engineering Program 🏫.I love to do web development and open to learning new technologies.
+My name is Brian Rhodes. I am from Houston, Texas and I am a recent graduate of Flatiron School's Software Engineering Program 🏫. I love to do web development and I am open to learning new technologies.
 
 ## 💻 Some Projects
 * [React Video Player (Youtube Clone that utilizes Youtube Data v3 API)](https://video-player-rmnb8owyc-brian4548.vercel.app/)
