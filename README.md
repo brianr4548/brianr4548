@@ -8,10 +8,11 @@
 My name is Brian Rhodes. I am from Houston, Texas and I am a recent graduate of Flatiron School's Software Engineering Program 🏫. I love to do web development and I am open to learning new technologies.
 
 ## 💻 Some Projects
-* [React Video Player (Youtube Clone that utilizes Youtube Data v3 API)](https://video-player-rmnb8owyc-brian4548.vercel.app/)
-* [Image Search (Unsplashed API)](https://images-khss97b8y-brian4548.vercel.app/)
-* [Reusable Widgets (In Progress)](https://widgets-ab1jcr526-brian4548.vercel.app/)
-
+* Demo: [React Video Player (Youtube Clone that utilizes Youtube Data v3 API)](https://video-player-rmnb8owyc-brian4548.vercel.app/)
+  Repo: https://github.com/brian4548/video-player
+* Demo: [Image Search (Unsplashed API)](https://images-khss97b8y-brian4548.vercel.app/)
+  Repo: https://github.com/brian4548/Images
+  
 ## ⚡ Technologies 
 - Front-end Development using **React, CSS, Semantic UI**
 - Backend Development using **Ruby on Rails**
