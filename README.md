@@ -1,4 +1,4 @@
-<h2> Hello welcome to my Portfolio</h2>
+<h2> Hello welcome to my GitHub</h2>
 
 <img align='right' src='https://external-preview.redd.it/XiZVfTZi5kC5NwyUTTzlRxQmBoXR8tvMbxLOZUMoS2w.jpg?auto=webp&s=9cff521728dd02c20fd4fd06229b3bf592d07fdb' width='300"'>
 
