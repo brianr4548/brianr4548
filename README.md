@@ -8,6 +8,8 @@
 My name is Brian Rhodes. I am from Houston, Texas and I am a recent graduate of Flatiron School's Software Engineering Program 🏫. I love to do web development and I am open to learning new technologies.
 
 ## 💻 Some Projects
+* Demo: [JoltTV (Livestream video from you desktop)](https://streaming-app-teal.vercel.app//)<br/>
+  Repo: https://github.com/brian4548/streaming-app
 * Demo: [React Video Player (Youtube Clone that utilizes Youtube Data v3 API)](https://video-player-rmnb8owyc-brian4548.vercel.app/)<br/>
   Repo: https://github.com/brian4548/video-player
 * Demo: [Image Search (Unsplashed API)](https://images-khss97b8y-brian4548.vercel.app/)<br/>
