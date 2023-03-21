@@ -15,7 +15,7 @@ My name is Brian Rhodes. I am from Houston, Texas and I am a recent graduate of 
   Repo: https://github.com/brian4548/Images
   
 ## ⚡ Technologies 
-- C++
+- **C++**
 - Front-end Development using **React, Redux, CSS, Semantic UI**
 - Backend Development using **Ruby on Rails**
 - Learning Backend Development with **Nodejs** and steadily improving my Styling Skills
