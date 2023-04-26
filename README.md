@@ -21,6 +21,6 @@ My name is Brian Rhodes and I am from Houston, Texas
 - Learning Backend Development with **Nodejs**
 
 ## 👋 Other 
-- 💎 Huge DC Comics fan.
-- 💎 Matrix is my favorite movie.
+- 💎 Huge DC Comics fan
+- 💎 Matrix is my favorite movie
 - 💎 FGC Member
