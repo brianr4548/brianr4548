@@ -4,7 +4,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brianr4548@gmail.com)](mailto:brianr4548@gmail.com)
 
-My name is Brian Rhodes. I am from Houston, Texas and I am a recent graduate of Flatiron School's Software Engineering Program 🏫. I love to do web development and I am open to learning new technologies.
+My name is Brian Rhodes and I am from Houston, Texas
 
 ## 💻 Some Projects
 * Demo: [JoltTV (Livestream video from your desktop)](https://streaming-app-teal.vercel.app//)<br/>
