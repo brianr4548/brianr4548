@@ -1,7 +1,5 @@
 <h2> Hello welcome to my GitHub</h2>
 
-<img align='right' src='https://external-preview.redd.it/XiZVfTZi5kC5NwyUTTzlRxQmBoXR8tvMbxLOZUMoS2w.jpg?auto=webp&s=9cff521728dd02c20fd4fd06229b3bf592d07fdb' width='300"'>
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brianr4548@gmail.com)](mailto:brianr4548@gmail.com)
 
 My name is Brian Rhodes and I am from Houston, Texas
@@ -19,8 +17,3 @@ My name is Brian Rhodes and I am from Houston, Texas
 - Front-end Development using **React, Redux, CSS, Semantic UI**
 - Backend Development using **Ruby on Rails** and **SQL**
 - Learning Backend Development with **Nodejs**
-
-## 👋 Other 
-- 💎 Huge DC Comics fan
-- 💎 Matrix is my favorite movie
-- 💎 FGC Member
