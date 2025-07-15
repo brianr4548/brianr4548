@@ -15,6 +15,6 @@ My name is Brian Rhodes and I am from Houston, Texas
 ## ⚡ Technologies 
 - **C++**
 - **Python**
+- **Selenium**
 - Front-end Development using **React, Redux, CSS, Semantic UI**
 - Backend Development using **Ruby on Rails** and **SQL**
-- Learning Backend Development with **Nodejs**
