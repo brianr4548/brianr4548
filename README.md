@@ -4,7 +4,7 @@
 
 My name is Brian Rhodes and I am from Houston, Texas
 
-## 💻 Some Projects
+## 💻 Projects
 * Demo: [JoltTV (Livestream video from your desktop)](https://streaming-app-teal.vercel.app//)<br/>
   Repo: https://github.com/brian4548/streaming-app
 * Demo: [React Video Player (Youtube Clone that utilizes Youtube Data v3 API)](https://video-player-rmnb8owyc-brian4548.vercel.app/)<br/>
